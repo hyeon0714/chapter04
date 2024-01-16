@@ -7,7 +7,7 @@ public class Ex01 {
 	
 	public static void main(String[] args) {
 		
-		//섞어쓰기로 hastset와 treeset의 호환성을 높일수있다
+		//섞어쓰기로 hashset와 treeset의 호환성을 높일수있다
 		 Set<Integer> iSet=new HashSet<Integer>();//제너릭에서는 기본자료형을 안쓴다->wrapping 클래스 부르기
 		 
 		 Integer i01=new Integer(3);
